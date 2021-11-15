@@ -54,7 +54,7 @@ subscription-config:
 
 user-config:
   username: test
-  password: '{cipher}baeb90d57edb9a050b97b98a7d8cabe80ee884e6fff16c22956172459a43e54d'
+  password: springCloud_Pwd!
   roles: USER
 
 springdoc:
