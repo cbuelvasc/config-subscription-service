@@ -27,8 +27,8 @@ spring:
         registration:
           keycloak:
             client-id: 'subscription-service'
-              client-secret: 'e9c2be3d-6802-4ba2-acd7-07bc8ee0c853'
-              authorizationGrantType: client_credentials
+            client-secret: 'e9c2be3d-6802-4ba2-acd7-07bc8ee0c853'
+            authorizationGrantType: client_credentials
         provider:
           keycloak:
             tokenUri: http://localhost:9091/auth/realms/subscription/protocol/openid-connect/token
